@@ -1,5 +1,5 @@
 ## Description
-<b> <h3> STEM Classification of CBO-2002 Occupations and Brazillian HEC Fields of Education </h3> </b>
+<b> <h4> STEM Classification of CBO-2002 Occupations and Brazillian HEC Fields of Education </h4> </b>
 
 We provide .csv tables classifying CBO-2002 occupations (Classificação Brasileira de Ocupações) into STEM and non-STEM occupations, as well as INEP’s
 HEC's(Higher Education Census) fields of education classification of STEM degrees in Brazil. In addition to the tables, we also provide reports in .pdf format with a guide and full disclosure of the classification processes. 
@@ -12,7 +12,7 @@ In Brazil, there is no official taxonomy of STEM jobs or educational fields. As 
 The [CBO](https://concla.ibge.gov.br/classificacoes/por-tema/ocupacao/classificacao-brasileira-de-ocupacoes.html) (Classificação Brasileira de Ocupações)  is the Brazilian statistical standard to classify workers into occupational categories. It describes and orders occupations within a hierarchical structure that makes it possible to aggregate information regarding the workforce, according to occupational characteristics that concern the nature of the workforce and the content of the work. We classify STEM occupations based on [a definition](https://www.bls.gov/soc/attachment_c_stem.pdf) proposed by the United States Bureau of Labor Statistics (USBLS) for the [2010-SOC](https://www.bls.gov/soc/2010/home.htm) (Standard Occupational Classification). For each of the 622 CBO-2002 four-digit occupational codes, a correspondence was sought among the SOC-2010 set of 97 STEM occupations listed by USBLS. 
 FALAR DA CBO DOMILICIAR.
 
-<h3> Educational Degrees in the Brazillian Superior Education Censuses </h3>
+<h4> Educational Degrees in the Brazillian Superior Education Censuses </h4>
 The [HEC](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior) (Brazillian Higher-Education Censuses) is collected by INEP and contains data from every registered higher education institution in the country, on a yearly basis. Each data-set contains nation-wide, individual-level, identified data, with student, institution and degree characteristics. HEC contain [ISCED](http://uis.unesco.org/en/topic/international-standard-classification-education-isced) degree identification codes, developed by UNESCO and adopted by many other international organizations such as the OECD and EUROSTAT. What makes ISCED codes useful when classifying STEM fields, is that [SAGA](https://en.unesco.org/saga) (STEM and Gender Advancement), a global policy initiative created by UNESCO, has already developed an educational STEM field classification, compatible with ISCED codes, which are available in INEP’s data-sets. Thus, combining SAGA’s STEM classification with ISCED codes, available for Brazilian data, provides a starting point for identifying STEM degrees. (AJEITAR) These codes represent a UNESCO international standard for classifying degrees according to subject areas, which allow us to build on a compatible SAGA-UNESCO STEM field classification, modifying it to better suit to the context of Brazilian higher education.
 
 
