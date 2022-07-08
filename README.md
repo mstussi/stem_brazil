@@ -6,6 +6,16 @@ HEC's(Higher Education Census) fields of education classification of STEM degree
 
 In Brazil, there is no official taxonomy of STEM jobs or educational fields. As a result, the few existing analysis of STEM jobs and education in Brazil use their own, generally vague, classifications and are not transparent about the classification criteria. We seek to fill this gap in the STEM taxonomy and literature by providing unprecedented classification of STEM occupations and higher-education degrees in Brazil. 
 
+## Files
+
+| **Name** | **Description** | **Type**  | **File** |
+|----------|-----------------|-----------|----------|
+| STEM Classification of CBO-2002 Occupations | Four Digit CBO-2002 Occupational Codes STEM Classification. Dummy <code>stem</code> equals 1 if occupation is STEM and 0 otherwise.   | .csv Table  | [stem_cbo2002.csv](tables/stem_cbo2002.csv) |
+| STEM Classification INEP’s HEC's Fields of Education | INEP’s Higher Education Census (HEC) fields of education classification of STEM degrees.    Dummy <code>stem</code> equals 1 if educational degree is STEM and 0 otherwise.                                          |  .csv Table |  insert file |
+| STEM Classification of Household CBO Occupations     | Household CBO Description                                                                                                                                        |  .csv Table | insert file |
+| STEM Classification in the Formal Labor Market in Brazil            |    Report containing a guide and full disclosure of the classification criteria for CBO-2002 definitions of STEM occupations. It also contains the proposed classification applied to 2017 RAIS (Relação Anual de Informações Sociais), an administrative data set from the Ministry of Labor in which occupations are identified by a CBO-2002 code, to provide preliminary statistics of the STEM formal labor market in Brazil. | .pdf Report | [stem_occupations_classification.pdf](reports/stem_occupations_classification.pdf)  |
+|  STEM Classification for Brazilian Higher Education | Report Description |   .pdf Report    | [stem_education_classification.pdf](reports/stem_education_classification.pdf) |
+
 ## About the Occcupational Standards and Educational Degrees in Brazil:
 
 <h4> Occupational Standards </h4>  
@@ -19,12 +29,4 @@ The [HEC](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microd
 
 
 
-## Files
 
-| **Name** | **Description** | **Type**  | **File** |
-|----------|-----------------|-----------|----------|
-| STEM Classification of CBO-2002 Occupations | Four Digit CBO-2002 Occupational Codes STEM Classification. Dummy <code>stem</code> equals 1 if occupation is STEM and 0 otherwise.   | .csv Table  | [stem_cbo2002.csv](tables/stem_cbo2002.csv) |
-| STEM Classification INEP’s HEC's Fields of Education | INEP’s Higher Education Census (HEC) fields of education classification of STEM degrees.    Dummy <code>stem</code> equals 1 if educational degree is STEM and 0 otherwise.                                          |  .csv Table |  insert file |
-| STEM Classification of Household CBO Occupations     | Household CBO Description                                                                                                                                        |  .csv Table | insert file |
-| STEM Classification in the Formal Labor Market in Brazil            |    Report containing a guide and full disclosure of the classification criteria for CBO-2002 definitions of STEM occupations. It also contains the proposed classification applied to 2017 RAIS (Relação Anual de Informações Sociais), an administrative data set from the Ministry of Labor in which occupations are identified by a CBO-2002 code, to provide preliminary statistics of the STEM formal labor market in Brazil. | .pdf Report | [stem_occupations_classification.pdf](reports/stem_occupations_classification.pdf)  |
-|  STEM Classification for Brazilian Higher Education | Report Description |   .pdf Report    | [stem_education_classification.pdf](reports/stem_education_classification.pdf) |
