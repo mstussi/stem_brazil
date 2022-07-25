@@ -12,7 +12,7 @@ In Brazil, there is no official taxonomy of STEM jobs or educational fields. As 
 |----------|-----------------|-----------|----------|
 | STEM Classification of CBO-2002 Occupations | Four Digit CBO-2002 Occupational Codes STEM Classification. Dummy <code>stem</code> equals 1 if occupation is STEM and 0 otherwise.   | .csv Table  | [stem_cbo2002.csv](tables/stem_cbo2002.csv) |
 | STEM Classification INEP’s HEC's Fields of Education | INEP’s Higher Education Census (HEC) fields of education classification of STEM degrees.    Dummy <code>stem</code> equals 1 if educational degree is STEM and 0 otherwise.                                          |  .csv Table |  insert file |
-| STEM Classification of Household CBO Occupations     | Household CBO Description                                                                                                                                        |  .csv Table | insert file |
+| STEM Classification of Household CBO Occupations     | Household CBO Description                                                                                                                                        |  .csv Table | [stem_cbo_household.csv](tables/stem_cbo_household.csv)  |
 | STEM Classification in the Formal Labor Market in Brazil            |    Report containing a guide and full disclosure of the classification criteria for CBO-2002 definitions of STEM occupations. It also contains the proposed classification applied to 2017 RAIS (Relação Anual de Informações Sociais), an administrative data set from the Ministry of Labor in which occupations are identified by a CBO-2002 code, to provide preliminary statistics of the STEM formal labor market in Brazil. | .pdf Report | [stem_occupations_classification.pdf](reports/stem_occupations_classification.pdf)  |
 |  STEM Classification for Brazilian Higher Education | Report Description |   .pdf Report    | [stem_education_classification.pdf](reports/stem_education_classification.pdf) |
 
@@ -22,6 +22,11 @@ In Brazil, there is no official taxonomy of STEM jobs or educational fields. As 
 
 The [CBO](https://concla.ibge.gov.br/classificacoes/por-tema/ocupacao/classificacao-brasileira-de-ocupacoes.html) (Classificação Brasileira de Ocupações)  is the Brazilian statistical standard to classify workers into occupational categories. It describes and orders occupations within a hierarchical structure that makes it possible to aggregate information regarding the workforce, according to occupational characteristics that concern the nature of the workforce and the content of the work. We classify STEM occupations based on [a definition](https://www.bls.gov/soc/attachment_c_stem.pdf) proposed by the United States Bureau of Labor Statistics (USBLS) for the [2010-SOC](https://www.bls.gov/soc/2010/home.htm) (Standard Occupational Classification). For each of the 622 CBO-2002 four-digit occupational codes, a correspondence was sought among the SOC-2010 set of 97 STEM occupations listed by USBLS. 
 FALAR DA CBO DOMILICIAR.
+
+The 'Household CBO' ([CBO-Domiciliar](https://concla.ibge.gov.br/images/concla/estrutura/CBODomicilar.xls)) presents small differences in relation to the CBO-2002. It was used in the 2000's Demographic Census as a provisional version of the CBO, available at the time it was carried out, called CBO-Domiciliar. The CBO-Domiciliar was later implemented in the other IBGE household surveys from 2002 onwards, such as [PNAD](https://www.ibge.gov.br/estatisticas/sociais/populacao/9127-pesquisa-nacional-por-amostra-de-domicilios.html?=&t=o-que-e)(National Survey by Household Sample). 
+
+
+The 2000 Demographic Census used a provisional version of the CBO, The CBO-Domiciliar presents small differences in relation to the CBO- 2002.
 
 <h4> Educational Degrees in the Brazillian Superior Education Censuses </h4>  
 
