@@ -21,13 +21,11 @@ Censuses (HEC), consistent across multiple years of the HEC. It contains prelimi
 
 Import the .csv files into <code>R</code>, <code>STATA</code>, or your preferred statistical software and merge by occupational or degree identification code. 
 
-## Credits and Suggested Citation
+## Credits
 
-If you benefit from our tables or reports in this repository, please cite it in your work as:
+If you benefit from our classification tables and/or reports in this repository, please cite it in your work as:
 
 Machado, C., Rachter, L., Schanaider, F., & Stussi, M. (2022) STEM Classification for the Brazilian Formal Labor Market and the Brazillian Higher Education. Github repository - [https://github.com/mstussi/stem_brazil](https://github.com/mstussi/stem_brazil)
-
-Soto, C. J., & John, O. P. (2017). The next big five inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power. Journal of Personality and Social Psychology, 113(1), 117-143.
 
 ## More About the Occcupational Standards and Educational Degrees in Brazil
 
