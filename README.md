@@ -17,7 +17,19 @@ In Brazil, there is no official taxonomy of STEM jobs or educational fields. As 
 |  STEM Classification for Brazilian Higher Education | Report with a STEM field classification proposal tailored to the Brazilian Higher-Education
 Censuses (HEC), consistent across multiple years of the HEC. It contains preliminary statistics of the classification applied to HEC/INEP data, from 2010 to 2019. |   .pdf Report    | [stem_education_classification.pdf](reports/stem_education_classification.pdf) |
 
-## About the Occcupational Standards and Educational Degrees in Brazil:
+## How to use
+
+Import the .csv files into <code>R</code>, <code>STATA</code>, or your preferred statistical software and merge by occupational or degree identification code. 
+
+## Credits and Suggested Citation
+
+If you benefit from our tables or reports in this repository, please cite it in your work as:
+
+Machado, C., Rachter, L., Schanaider, F., & Stussi, M. (2022) STEM Classification for the Brazilian Formal Labor Market and the Brazillian Higher Education. Github repository - [https://github.com/mstussi/stem_brazil](https://github.com/mstussi/stem_brazil)
+
+Soto, C. J., & John, O. P. (2017). The next big five inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power. Journal of Personality and Social Psychology, 113(1), 117-143.
+
+## More About the Occcupational Standards and Educational Degrees in Brazil
 
 <h4> Occupational Standards </h4>  
 
