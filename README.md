@@ -18,8 +18,8 @@ In Brazil, there is no official taxonomy of STEM jobs or educational fields. As 
 
 
 
-<span style="font-size:4em;"> 
-* Note: INEP changed the codes and course names from 2018 to match an international standard. Because of that, we did not provide codes for non-STEM degrees in this table, in which dummy <code>stem</code> would equal 0. We have made the classifications compatible for STEM degrees to avoid breaking the series between 2017 and 2018. </span>
+<sub><sup> * Note: INEP changed the codes and course names from 2018 to match an international standard. Because of that, we did not provide codes for non-STEM degrees in this table, in which dummy <code>stem</code> would equal 0. We have made the classifications compatible for STEM degrees to avoid breaking the series between 2017 and 2018. 
+ </sup></sub>
 
 
 
